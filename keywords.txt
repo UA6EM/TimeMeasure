@@ -13,7 +13,7 @@ TimeMeasure KEYWORD1  TimeMeasure
 #######################################
 linitTimeMeasuring  KEYWORD2
 measureResult KEYWORD2
-txState	KEYWORD2
+ticks2Microseconds  KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
